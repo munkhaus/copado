@@ -9,9 +9,9 @@
         <feedItemType>EmailMessageEvent</feedItemType>
     </caseFeedItemSettings>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
-    <defaultCaseOwner>copado_test1@munkhaus.dk</defaultCaseOwner>
+    <defaultCaseOwner>copado@munkhaus.dk</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>copado_test1@munkhaus.dk</defaultCaseUser>
+    <defaultCaseUser>copado@munkhaus.dk</defaultCaseUser>
     <emailToCase>
         <enableEmailToCase>false</enableEmailToCase>
     </emailToCase>
