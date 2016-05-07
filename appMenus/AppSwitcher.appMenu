@@ -40,20 +40,4 @@
         <name>standard__Content</name>
         <type>CustomApplication</type>
     </appMenuItems>
-    <appMenuItems>
-        <name>copado__Copado</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>copado__Copado_Branch_Management</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>copado__Copado_Change_Management</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>copado__Copado_Continuous_Integration</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
 </AppMenu>
